@@ -31,12 +31,12 @@ div#beach {
 div#video {
   position: absolute;
   right: 243px;
-  bottom: 200px;
+  bottom: 160px;
 }
 
 div#video iframe {
-  width: 40px;
-  height: 155px;
+  width: 250px;
+  height: 200px;
 }
 
 #people {
